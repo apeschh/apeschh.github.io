@@ -15,21 +15,13 @@ line-height:17px;
 .rbox .line{
 	transition: transform .1s;
 }
-.rbox1:hover .line
+.rbox:hover .line
 {
 	background-color: rgb(196,245,181);
 	transform: rotate(180deg);
 	
 }
-.rbox1{position: absolute;
-left:100px;
-top:100px;
-	width: 100px;
-	height: 100px;
-	
 
-
-}
 .r1{
 	position: absolute;
 left:100px;
