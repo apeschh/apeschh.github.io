@@ -1,23 +1,23 @@
 h1{
 	position: absolute;
 	top:300px;
-	left:50px;
+	left:88px;
 	font-family: Helvetica Neue
 }
 p{
 	position: absolute;
 	top:350px;
-	left:50px;
+	left:88px;
 	width: 300px;
 font-family: Helvetica Neue;
-line-height:19px;
+line-height:20px;
 }
 .rbox .line{
 	transition: transform .1s;
 }
 .rbox:hover .line
 {
-	background-color: rgb(196,245,181);
+	background-color: rgb(165,235,106);
 	transform: rotate(180deg);
 	
 }
@@ -74,8 +74,8 @@ left:88px;
 top:130px;
 	width: 20px;
 	height: 160px;
-	border: 3px solid rgb(196,245,181);
-	background-color: rgb(196,245,181);
+	border: 3px solid rgb(165,235,106);
+	background-color: rgb(165,235,106);
 }
 .r7{
 position: absolute;
@@ -201,8 +201,8 @@ left:170px;
 top:184px;
 	width: 20px;
 	height: 105px;
-	border: 3px solid rgb(196,245,181);
-	background-color: rgb(196,245,181);
+	border: 3px solid rgb(165,235,106);
+	background-color: rgb(165,235,106);
 	transform: skew(20deg);
 	
 	
@@ -212,7 +212,7 @@ top:184px;
 }
 .abox:hover .line{
 	transform: rotate(180deg);
-	background-color: rgb(196,245,181);
+	background-color: rgb(165,235,106);
 }
 
 .a1{
@@ -231,8 +231,8 @@ left:276px;
 top:130px;
 	width: 20px;
 	height: 160px;
-	border: 3px solid rgb(196,245,181);
-	background-color: rgb(196,245,181);
+	border: 3px solid rgb(165,235,106);
+	background-color: rgb(165,235,106);
 }
 
 .a3{
@@ -285,8 +285,8 @@ left:188px;
 top:130px;
 	width: 20px;
 	height: 160px;
-	border: 3px solid rgb(196,245,181);
-	background-color: rgb(196,245,181);
+	border: 3px solid rgb(165,235,106);
+	background-color: rgb(165,235,106);
 }
 .a9{
 position: absolute;
@@ -390,8 +390,8 @@ left:366px;
 top:130px;
 	width: 20px;
 	height: 160px;
-	border: 3px solid rgb(196,245,181);
-	background-color: rgb(196,245,181);
+	border: 3px solid rgb(165,235,106);
+	background-color: rgb(165,235,106);
 }
 .n2{
 	position: absolute;
@@ -479,8 +479,8 @@ left:435px;
 top:130px;
 	width: 20px;
 	height: 115px;
-	border: 3px solid rgb(196,245,181);
-	background-color: rgb(196,245,181);
+	border: 3px solid rgb(165,235,106);
+	background-color: rgb(165,235,106);
 	transform: skew(10deg);
 	
 }
@@ -567,15 +567,15 @@ left:482px;
 top:80px;
 	width: 20px;
 	height: 160px;
-	border: 3px solid rgb(196,245,181);
-	background-color: rgb(196,245,181);
+	border: 3px solid rgb(165,235,106);
+	background-color: rgb(165,235,106);
 }
 .gbox .line{
 	transition: transform .1s;
 }
 .gbox:hover .line{
 	transform: rotate(180deg);
-	background-color: rgb(196,245,181);
+	background-color: rgb(165,235,106);
 }
 
 .g1{
@@ -664,8 +664,8 @@ left:525px;
 top:130px;
 	width: 20px;
 	height: 110px;
-	border: 3px solid rgb(196,245,181);
-	background-color: rgb(196,245,181);
+	border: 3px solid rgb(165,235,106);
+	background-color: rgb(165,235,106);
 }
 .g11{
 	position: absolute;
@@ -761,8 +761,8 @@ left:589px;
 top:170px;
 	width: 20px;
 	height: 70px;
-	border:solid rgb(196,245,181);
-	background-color: rgb(196,245,181);
+	border:solid rgb(165,235,106);
+	background-color: rgb(165,235,106);
 }
 
 .g22{
@@ -799,7 +799,7 @@ top:181px;
 }
 .ebox:hover .line{
 	transform: rotate(180deg);
-	background-color: rgb(196,245,181);
+	background-color: rgb(165,235,106);
 }
 .e1{
 position: absolute;
@@ -807,8 +807,8 @@ left:685px;
 top:128px;
 	width: 20px;
 	height: 105px;
-	border: 3px solid rgb(196,245,181);
-	background-color: rgb(196,245,181);
+	border: 3px solid rgb(165,235,106);
+	background-color: rgb(165,235,106);
 }
 .e2{
 	position: absolute;
@@ -861,8 +861,8 @@ left:736px;
 top:75px;
 	width: 27px;
 	height: 19px;
-	border: solid rgb(196,245,181);
-	background-color: rgb(196,245,181);
+	border: solid rgb(165,235,106);
+	background-color: rgb(165,235,106);
 }
 .e8{
 	position: absolute;
@@ -914,8 +914,8 @@ left:736px;
 top:270px;
 	width: 27px;
 	height: 19px;
-	border: solid rgb(196,245,181);
-	background-color: rgb(196,245,181);
+	border: solid rgb(165,235,106);
+	background-color: rgb(165,235,106);
 }
 .e14{
 	position: absolute;
@@ -923,19 +923,19 @@ top:270px;
 	top: 170px;
 	width:37px;
 	height:19px;
-	border: solid rgb(196,245,181);
-	background-color: rgb(196,245,181);
+	border: solid rgb(165,235,106);
+	background-color: rgb(165,235,106);
 }
 .sbox{
 	position: absolute;
-	left:630px;
+	left:610px;
 }
 .sbox .line{
 	transition: transform .1s;
 }
 .sbox:hover .line{
 	transform: rotate(180deg);
-background-color: rgb(196,245,181);}
+background-color: rgb(165,235,106);}
 .s1{
 position: absolute;
 left:234px;
@@ -1058,8 +1058,8 @@ left:225px;
 top:137px;
 	width: 22px;
 	height: 55px;
-	border: solid rgb(196,245,181);
-	background-color: rgb(196,245,181);
+	border: solid rgb(165,235,106);
+	background-color: rgb(165,235,106);
 	transform: rotate(-55deg);}
 
 .s15{
@@ -1077,7 +1077,7 @@ left:280px;
 top:215px;
 	width: 25px;
 	height: 40px;
-	background-color: rgb(196,245,181);
+	background-color: rgb(165,235,106);
 	}
 
 .s17{
