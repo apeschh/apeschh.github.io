@@ -1,0 +1,30 @@
+h1{
+	position: absolute;
+	top:40px;
+	left:50px;
+	font-size: 40px;
+}
+h2{
+	position: absolute;
+	top:35px;
+	left:260px;
+	font-size: 40px;
+}
+h3{
+	position: absolute;
+	top:28px;
+	left:470px;
+	font-size: 40px;
+}
+h4{
+	position: absolute;
+	top:15px;
+	left:770px;
+	font-size: 40px;
+}
+h5{
+	position: absolute;
+	top:0px;
+	left:970px;
+	font-size: 40px;
+}
