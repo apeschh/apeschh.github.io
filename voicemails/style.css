@@ -3,28 +3,77 @@ h1{
 	top:40px;
 	left:50px;
 	font-size: 40px;
+	font-family: 'Squada One', cursive;
 }
 h2{
 	position: absolute;
 	top:35px;
-	left:260px;
+	left:300px;
 	font-size: 40px;
+	font-family: 'Squada One', cursive;
 }
 h3{
 	position: absolute;
 	top:28px;
-	left:470px;
+	left:550px;
 	font-size: 40px;
+	font-family: 'Squada One', cursive;
 }
 h4{
 	position: absolute;
 	top:15px;
 	left:770px;
 	font-size: 40px;
+	font-family: 'Squada One', cursive;
 }
 h5{
 	position: absolute;
 	top:0px;
 	left:970px;
 	font-size: 40px;
+	font-family: 'Squada One', cursive;
+
+}
+body{
+	background-color: rgb(255,185,168)
+}
+.i1{
+	position: absolute;
+	top:200px;
+	left: 10px;
+}
+.i2{
+	position: absolute;
+	top:300px;
+	left: 10px;
+}
+.i3{
+	position: absolute;
+	top:400px;
+	left: 10px;
+}
+.i4{
+	position: absolute;
+	top:500px;
+	left: 10px;
+}
+.i5{
+	position: absolute;
+	top:200px;
+	left: 400px;
+}
+.i6{
+	position: absolute;
+	top:300px;
+	left: 400px;
+}
+.i7{
+	position: absolute;
+	top:400px;
+	left: 400px;
+}
+.i8{
+	position: absolute;
+	top:600px;
+	left: 400px;
 }
