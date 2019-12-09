@@ -1,79 +1,367 @@
-h1{
+.nm1{color: rgb(255,117,191);
 	position: absolute;
-	top:40px;
-	left:50px;
-	font-size: 40px;
+	top:170px;
+	left:103px;
+	font-size: 20px;
 	font-family: 'Squada One', cursive;
-}
-h2{
+	line-height: 20px;}
+.nm2{color: rgb(255,117,191);
 	position: absolute;
-	top:35px;
-	left:300px;
-	font-size: 40px;
+	top:170px;
+	left:303px;
+	font-size: 20px;
 	font-family: 'Squada One', cursive;
-}
-h3{
+	line-height: 20px;}
+.nm3{color: rgb(255,117,191);
 	position: absolute;
-	top:28px;
-	left:550px;
-	font-size: 40px;
+	top:170px;
+	left:503px;
+	font-size: 20px;
 	font-family: 'Squada One', cursive;
-}
-h4{
+	line-height: 20px;}
+.nm4{color: rgb(255,117,191);
 	position: absolute;
-	top:15px;
-	left:770px;
-	font-size: 40px;
+	top:170px;
+	left:703px;
+	font-size: 20px;
 	font-family: 'Squada One', cursive;
-}
-h5{
+	line-height: 20px;}
+.nm5{color: rgb(255,117,191);
 	position: absolute;
-	top:0px;
-	left:970px;
-	font-size: 40px;
+	top:170px;
+	left:903px;
+	font-size: 20px;
 	font-family: 'Squada One', cursive;
+	line-height: 20px;}
+.nm6{color: rgb(255,117,191);
+	position: absolute;
+	top:170px;
+	left:1103px;
+	font-size: 20px;
+	font-family: 'Squada One', cursive;
+	line-height: 20px;}
+.nm11{color: rgb(255,117,191);
+	position: absolute;
+	top:270px;
+	left:103px;
+	font-size: 20px;
+	font-family: 'Squada One', cursive;
+	line-height: 20px;}
+.nm22{color: rgb(255,117,191);
+	position: absolute;
+	top:270px;
+	left:303px;
+	font-size: 20px;
+	font-family: 'Squada One', cursive;
+	line-height: 20px;}
+.nm33{color: rgb(255,117,191);
+	position: absolute;
+	top:270px;
+	left:503px;
+	font-size: 20px;
+	font-family: 'Squada One', cursive;
+	line-height: 20px;}
+.nm44{color: rgb(255,117,191);
+	position: absolute;
+	top:270px;
+	left:703px;
+	font-size: 20px;
+	font-family: 'Squada One', cursive;
+	line-height: 20px;}
+.nm55{color: rgb(255,117,191);
+	position: absolute;
+	top:270px;
+	left:903px;
+	font-size: 20px;
+	font-family: 'Squada One', cursive;
+	line-height: 20px;}
+.nmm1{color: rgb(255,117,191);
+	position: absolute;
+	top:170px;
+	left:95px;
+	font-size: 20px;
+	font-family: 'Squada One', cursive;
+	line-height: 20px;}
+.nmm2{color: rgb(255,117,191);
+	position: absolute;
+	top:170px;
+	left:295px;
+	font-size: 20px;
+	font-family: 'Squada One', cursive;
+	line-height: 20px;}
+.nmm3{color: rgb(255,117,191);
+	position: absolute;
+	top:170px;
+	left:495px;
+	font-size: 20px;
+	font-family: 'Squada One', cursive;
+	line-height: 20px;}
+.nmm4{color: rgb(255,117,191);
+	position: absolute;
+	top:170px;
+	left:695px;
+	font-size: 20px;
+	font-family: 'Squada One', cursive;
+	line-height: 20px;}
+.nmm5{color: rgb(255,117,191);
+	position: absolute;
+	top:170px;
+	left:895px;
+	font-size: 20px;
+	font-family: 'Squada One', cursive;
+	line-height: 20px;}
+.nmm6{color: rgb(255,117,191);
+	position: absolute;
+	top:170px;
+	left:1095px;
+	font-size: 20px;
+	font-family: 'Squada One', cursive;
+	line-height: 20px;}
+.nmm7{color: rgb(255,117,191);
+	position: absolute;
+	top:170px;
+	left:1295px;
+	font-size: 20px;
+	font-family: 'Squada One', cursive;
+	line-height: 20px;}
 
-}
-body{
-	background-color: rgb(255,185,168)
-}
-.i1{
+h1{
+	color: rgb(255,117,191);
 	position: absolute;
 	top:200px;
-	left: 10px;
+	left:110px;
+	font-size: 30px;
+	font-family: 'Squada One', cursive;
+	line-height: 25px;
+}
+h2{color: rgb(255,117,191);
+	position: absolute;
+	top:280px;
+	left:410px;
+	font-size: 30px;
+	font-family: 'Squada One', cursive;
+	line-height: 25px;
+}
+h3{color: rgb(255,117,191);
+	position: absolute;
+	top:180px;
+	left:700px;
+	font-size: 30px;
+	font-family: 'Squada One', cursive;
+	line-height: 25px;
+}
+h4{color: rgb(255,117,191);
+	position: absolute;
+	top:150px;
+	left:1000px;
+	font-size: 30px;
+	font-family: 'Squada One', cursive;
+	line-height: 25px;
+}
+h5{color: rgb(255,117,191);
+	position: absolute;
+	top:0px;
+	left:100px;
+	font-size: 50px;
+	font-family: 'Squada One', cursive;
+	line-height: 25px;
+}
+
+body{
+	background-color: rgb(224,244,255)
+}
+
+.i1{
+	position: absolute;
+	top:390px;
+	left: 130px;
 }
 .i2{
 	position: absolute;
-	top:300px;
-	left: 10px;
+	top:390px;
+	left: 330px;
 }
 .i3{
 	position: absolute;
-	top:400px;
-	left: 10px;
+	top:390px;
+	left: 530px;
 }
 .i4{
 	position: absolute;
-	top:500px;
-	left: 10px;
+	top:390px;
+	left: 730px;
 }
 .i5{
 	position: absolute;
-	top:200px;
-	left: 400px;
+	top:390px;
+	left: 930px;
 }
 .i6{
 	position: absolute;
-	top:300px;
-	left: 400px;
+	top:390px;
+	left: 1130px;
 }
 .i7{
 	position: absolute;
-	top:400px;
-	left: 400px;
+	top:390px;
+	left: 1330px;
 }
-.i8{
+.ii1{
 	position: absolute;
-	top:600px;
-	left: 400px;
+	top:410px;
+	left: 133px;
+}
+.ii2{
+	position: absolute;
+	top:410px;
+	left: 333px;
+}
+.ii3{
+	position: absolute;
+	top:410px;
+	left: 533px;
+}
+.ii4{
+	position: absolute;
+	top:410px;
+	left: 733px;
+}
+.ii5{
+	position: absolute;
+	top:410px;
+	left: 933px;
+}
+.iii1{
+	position: absolute;
+	top:419px;
+	left: 127px;
+}
+.iii2{
+	position: absolute;
+	top:419px;
+	left: 327px;
+}
+.iii3{
+	position: absolute;
+	top:419px;
+	left: 527px;}
+.i11{
+	position: absolute;
+	top:420px;
+	left: 121px;
+}
+.i22{
+	position: absolute;
+	top:420px;
+	left: 321px;
+}
+.i33{
+	position: absolute;
+	top:420px;
+	left: 521px;
+}
+.i44{
+	position: absolute;
+	top:420px;
+	left: 721px;
+}
+.i55{
+	position: absolute;
+	top:420px;
+	left: 921px;
+}
+.i66{
+	position: absolute;
+	top:420px;
+	left: 1121px;
+}
+.i77{
+	position: absolute;
+	top:420px;
+	left: 1321px;
+}
+
+.p1{
+	position: absolute;
+	top: 100px;
+	left: 50px;
+}
+.p2{
+	position: absolute;
+	top: 70px;
+	left: 350px;
+}
+.p3{
+	position: absolute;
+	top: 100px;
+	left: 650px;
+}
+.p4{
+	position: absolute;
+	top: 100px;
+	left: 950px;
+}
+.p5{
+	position: absolute;
+	top: 290px;
+	left: 105px;	
+}
+.p6{
+	position: absolute;
+	top: 365px;
+	left: 405px;	
+}
+.p7{
+	position: absolute;
+	top: 290px;
+	left: 700px;	
+}
+.p8{
+	position: absolute;
+	top: 270px;
+	left: 995px;	
+}
+.audiodiv audio{
+	display: none;
+
+}
+.audiodiv{
+	width: 50px;
+	height: 50px;
+	background-image: url("play.gif");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.ilyp{
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
+.ilyp1{
+	position: absolute;
+	top: 50px;
+	left: 250px;
+}.ilyp2{
+	position: absolute;
+	top: 50px;
+	left: 450px;
+}.ilyp3{
+	position: absolute;
+	top: 50px;
+	left: 650px;
+}.ilyp4{
+	position: absolute;
+	top: 50px;
+	left: 850px;
+}
+.ilyp5{
+	position: absolute;
+	top: 50px;
+	left: 1050px;
+}
+.ilyp6{
+	position: absolute;
+	top: 50px;
+	left: 1250px;
 }
