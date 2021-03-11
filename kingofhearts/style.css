@@ -61,7 +61,7 @@ body {
   margin: auto;
   width: 1024px;
   height: 748px;
-  background-image: url("./img/background.png");
+  background-image: url("./img/background.gif");
   background-size: contain;
   background-repeat: no-repeat;
   pointer-events: none;
@@ -118,7 +118,7 @@ body {
   background-image: url("./img/npc-sprite.png");
   background-size: cover;
   animation-name: spriteSheet;
-  animation-duration: 60s;
+  animation-duration: 500ms;
   animation-timing-function: steps(2); /* number of frames in sprite (not counting the final blank space) */
   animation-iteration-count: infinite;  
   pointer-events: none;
@@ -126,7 +126,7 @@ body {
 
 .npc.was-interacted {
   opacity: 0;
-  transition: opacity 1000ms linear;
+  transition: opacity 500ms linear;
 }
 
 .preload-image {
