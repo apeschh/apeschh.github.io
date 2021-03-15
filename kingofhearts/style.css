@@ -28,7 +28,7 @@ body {
   text-align: center;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
-  color: white;
+  color: rgb(230,49,0);
   opacity: 0;
   z-index: 10;
   pointer-events: none;
@@ -47,7 +47,7 @@ body {
   height: 40px;
   line-height: 40px;
   border-radius: 50%;
-  background-color: rgb(243, 128, 25);
+  background-color: rgb(230,49,0);
   color: white;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
@@ -55,18 +55,18 @@ body {
   text-align: center;
 }
 
+
 .background {
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
   margin: auto;
   width: 1024px;
   height: 748px;
-  background-image: url("./img/background.gif");
+  background-image: url("./img/background.png");
   background-size: contain;
   background-repeat: no-repeat;
   pointer-events: none;
 }
-
 .hero {
   position: absolute;
   bottom: 80px;
@@ -100,14 +100,14 @@ body {
   background-image: url("./img/jumping-sprite.png");
   animation-name: spriteSheet;
   animation-duration: 1000ms;
-  animation-timing-function: steps(4); /* number of frames in sprite (not counting the final blank space) */
+  animation-timing-function: steps(8); /* number of frames in sprite (not counting the final blank space) */
 }
 
 .hero.doing-action {
   background-image: url("./img/action-sprite.png");
   animation-name: spriteSheet;
-  animation-duration: 600ms;  /* set to same number in initialize() as well or it will look weird */
-  animation-timing-function: steps(4); /* number of frames in sprite (not counting the final blank space) */
+  animation-duration: 1000ms;  /* set to same number in initialize() as well or it will look weird */
+  animation-timing-function: steps(15); /* number of frames in sprite (not counting the final blank space) */
 }
 
 .npc {
@@ -125,8 +125,17 @@ body {
 }
 
 .npc.was-interacted {
-  opacity: 0;
-  transition: opacity 500ms linear;
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  bottom:80px;
+  background-image: url("./img/npcdead.png");
+  background-size: cover;
+  animation-name: spriteSheet;
+  animation-duration: 1000ms;
+  animation-timing-function: steps(4); /* number of frames in sprite (not counting the final blank space) */
+  animation-iteration-count: infinite;  
+  pointer-events: none;
 }
 
 .preload-image {
